@@ -6,3 +6,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0120_M
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\bin\Debug\SFCSWin0120_MessageBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\bin\Debug\SFCSWin0120_MessageBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\bin\Debug\SFCSWin0120_MessageBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0120_MessageBox\obj\Debug\SFCSWin0120_MessageBox.pdb

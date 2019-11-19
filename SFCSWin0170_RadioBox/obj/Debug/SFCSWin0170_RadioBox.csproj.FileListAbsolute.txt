@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0170_R
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\bin\Debug\SFCSWin0170_RadioBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\bin\Debug\SFCSWin0170_RadioBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\bin\Debug\SFCSWin0170_RadioBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0170_RadioBox\obj\Debug\SFCSWin0170_RadioBox.pdb

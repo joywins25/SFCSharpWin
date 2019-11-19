@@ -28,17 +28,18 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.SuspendLayout();
-      // 
-      // Form1
-      // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
-      this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(396, 243);
-      this.Name = "Form1";
-      this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-      this.Text = "폼 클래스";
-      this.ResumeLayout(false);
+            this.SuspendLayout();
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(396, 243);
+            this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "폼 클래스";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
 
     }
 

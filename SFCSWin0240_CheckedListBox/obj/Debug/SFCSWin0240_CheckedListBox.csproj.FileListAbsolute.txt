@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0240_C
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\bin\Debug\SFCSWin0240_CheckedListBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\bin\Debug\SFCSWin0240_CheckedListBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\bin\Debug\SFCSWin0240_CheckedListBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0240_CheckedListBox\obj\Debug\SFCSWin0240_CheckedListBox.pdb

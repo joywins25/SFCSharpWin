@@ -7,3 +7,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0230_C
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\bin\Debug\SFCSWin0230_ComboBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\bin\Debug\SFCSWin0230_ComboBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\bin\Debug\SFCSWin0230_ComboBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0230_ComboBox\obj\Debug\SFCSWin0230_ComboBox.pdb

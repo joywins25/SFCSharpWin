@@ -1,0 +1,9 @@
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.pdb

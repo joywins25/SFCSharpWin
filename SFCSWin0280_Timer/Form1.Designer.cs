@@ -28,31 +28,35 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.components = new System.ComponentModel.Container();
-      this.lblTime = new System.Windows.Forms.Label();
-      this.timer1 = new System.Windows.Forms.Timer(this.components);
-      this.SuspendLayout();
-      // 
-      // lblTime
-      // 
-      this.lblTime.AutoSize = true;
-      this.lblTime.Location = new System.Drawing.Point(68, 88);
-      this.lblTime.Name = "lblTime";
-      this.lblTime.Size = new System.Drawing.Size(38, 12);
-      this.lblTime.TabIndex = 0;
-      this.lblTime.Text = "label1";
-      // 
-      // Form1
-      // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
-      this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(578, 207);
-      this.Controls.Add(this.lblTime);
-      this.Name = "Form1";
-      this.Text = "디지털 시계";
-      this.Load += new System.EventHandler(this.Form1_Load);
-      this.ResumeLayout(false);
-      this.PerformLayout();
+            this.components = new System.ComponentModel.Container();
+            this.lblTime = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.SuspendLayout();
+            // 
+            // lblTime
+            // 
+            this.lblTime.AutoSize = true;
+            this.lblTime.Location = new System.Drawing.Point(68, 88);
+            this.lblTime.Name = "lblTime";
+            this.lblTime.Size = new System.Drawing.Size(38, 12);
+            this.lblTime.TabIndex = 0;
+            this.lblTime.Text = "label1";
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(578, 207);
+            this.Controls.Add(this.lblTime);
+            this.Name = "Form1";
+            this.Text = "디지털 시계";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
 
     }
 

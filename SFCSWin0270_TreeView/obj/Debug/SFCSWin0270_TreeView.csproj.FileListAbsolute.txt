@@ -7,3 +7,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0270_T
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\bin\Debug\SFCSWin0270_TreeView.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\bin\Debug\SFCSWin0270_TreeView.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\bin\Debug\SFCSWin0270_TreeView.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0270_TreeView\obj\Debug\SFCSWin0270_TreeView.pdb

@@ -6,3 +6,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_T
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.pdb

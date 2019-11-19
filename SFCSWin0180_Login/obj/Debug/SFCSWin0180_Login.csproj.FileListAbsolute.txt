@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0180_L
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\bin\Debug\SFCSWin0180_Login.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\bin\Debug\SFCSWin0180_Login.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\bin\Debug\SFCSWin0180_Login.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0180_Login\obj\Debug\SFCSWin0180_Login.pdb

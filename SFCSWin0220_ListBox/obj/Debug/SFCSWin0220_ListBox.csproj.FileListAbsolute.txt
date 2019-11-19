@@ -7,3 +7,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0220_L
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\bin\Debug\SFCSWin0220_ListBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\bin\Debug\SFCSWin0220_ListBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\bin\Debug\SFCSWin0220_ListBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0220_ListBox\obj\Debug\SFCSWin0220_ListBox.pdb

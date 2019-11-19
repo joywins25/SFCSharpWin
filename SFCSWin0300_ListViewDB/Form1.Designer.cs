@@ -32,6 +32,8 @@
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnSelect = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -41,6 +43,10 @@
             this.txtPrice = new System.Windows.Forms.TextBox();
             this.btnInsert = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtOrderTime = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtId = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
@@ -52,13 +58,16 @@
             this.lvPrice.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnHeader1,
             this.columnHeader2,
-            this.columnHeader3});
+            this.columnHeader3,
+            this.columnHeader4,
+            this.columnHeader5});
             this.lvPrice.FullRowSelect = true;
             this.lvPrice.GridLines = true;
             this.lvPrice.HideSelection = false;
             this.lvPrice.Location = new System.Drawing.Point(12, 51);
             this.lvPrice.Name = "lvPrice";
-            this.lvPrice.Size = new System.Drawing.Size(328, 153);
+            this.lvPrice.Scrollable = false;
+            this.lvPrice.Size = new System.Drawing.Size(547, 281);
             this.lvPrice.TabIndex = 0;
             this.lvPrice.UseCompatibleStateImageBehavior = false;
             this.lvPrice.View = System.Windows.Forms.View.Details;
@@ -67,34 +76,45 @@
             // 
             // columnHeader1
             // 
-            this.columnHeader1.Text = "종류";
-            this.columnHeader1.Width = 100;
+            this.columnHeader1.Text = "ID";
+            this.columnHeader1.Width = 30;
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "품명";
+            this.columnHeader2.Text = "종류";
             this.columnHeader2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.columnHeader2.Width = 120;
+            this.columnHeader2.Width = 80;
             // 
             // columnHeader3
             // 
-            this.columnHeader3.Text = "가격";
+            this.columnHeader3.Text = "품명";
             this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.columnHeader3.Width = 100;
             // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "가격";
+            this.columnHeader4.Width = 120;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "일자";
+            this.columnHeader5.Width = 200;
+            // 
             // btnSelect
             // 
-            this.btnSelect.Location = new System.Drawing.Point(265, 219);
+            this.btnSelect.Location = new System.Drawing.Point(245, 354);
             this.btnSelect.Name = "btnSelect";
             this.btnSelect.Size = new System.Drawing.Size(75, 23);
             this.btnSelect.TabIndex = 1;
             this.btnSelect.Text = "조회";
             this.btnSelect.UseVisualStyleBackColor = true;
+            this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(34, 55);
+            this.label1.Location = new System.Drawing.Point(30, 110);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(29, 12);
             this.label1.TabIndex = 2;
@@ -103,7 +123,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(34, 100);
+            this.label2.Location = new System.Drawing.Point(30, 145);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(29, 12);
             this.label2.TabIndex = 3;
@@ -112,7 +132,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(34, 142);
+            this.label3.Location = new System.Drawing.Point(30, 182);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(29, 12);
             this.label3.TabIndex = 4;
@@ -120,28 +140,28 @@
             // 
             // txtKind
             // 
-            this.txtKind.Location = new System.Drawing.Point(77, 51);
+            this.txtKind.Location = new System.Drawing.Point(73, 106);
             this.txtKind.Name = "txtKind";
-            this.txtKind.Size = new System.Drawing.Size(148, 21);
+            this.txtKind.Size = new System.Drawing.Size(175, 21);
             this.txtKind.TabIndex = 5;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(77, 96);
+            this.txtName.Location = new System.Drawing.Point(73, 141);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(148, 21);
+            this.txtName.Size = new System.Drawing.Size(175, 21);
             this.txtName.TabIndex = 6;
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(77, 138);
+            this.txtPrice.Location = new System.Drawing.Point(73, 178);
             this.txtPrice.Name = "txtPrice";
-            this.txtPrice.Size = new System.Drawing.Size(148, 21);
+            this.txtPrice.Size = new System.Drawing.Size(175, 21);
             this.txtPrice.TabIndex = 7;
             // 
             // btnInsert
             // 
-            this.btnInsert.Location = new System.Drawing.Point(6, 207);
+            this.btnInsert.Location = new System.Drawing.Point(6, 282);
             this.btnInsert.Name = "btnInsert";
             this.btnInsert.Size = new System.Drawing.Size(75, 23);
             this.btnInsert.TabIndex = 8;
@@ -151,6 +171,10 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.txtOrderTime);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.txtId);
+            this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.btnDelete);
             this.groupBox1.Controls.Add(this.btnUpdate);
             this.groupBox1.Controls.Add(this.txtName);
@@ -160,16 +184,50 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.txtKind);
-            this.groupBox1.Location = new System.Drawing.Point(408, 12);
+            this.groupBox1.Location = new System.Drawing.Point(597, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(290, 250);
+            this.groupBox1.Size = new System.Drawing.Size(290, 320);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "상세정보";
             // 
+            // txtOrderTime
+            // 
+            this.txtOrderTime.Location = new System.Drawing.Point(73, 212);
+            this.txtOrderTime.Name = "txtOrderTime";
+            this.txtOrderTime.ReadOnly = true;
+            this.txtOrderTime.Size = new System.Drawing.Size(175, 21);
+            this.txtOrderTime.TabIndex = 14;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(35, 216);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(29, 12);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "일자";
+            // 
+            // txtId
+            // 
+            this.txtId.Location = new System.Drawing.Point(73, 73);
+            this.txtId.Name = "txtId";
+            this.txtId.ReadOnly = true;
+            this.txtId.Size = new System.Drawing.Size(175, 21);
+            this.txtId.TabIndex = 12;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(35, 77);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(16, 12);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "ID";
+            // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(209, 207);
+            this.btnDelete.Location = new System.Drawing.Point(209, 282);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(75, 23);
             this.btnDelete.TabIndex = 10;
@@ -179,7 +237,7 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(110, 206);
+            this.btnUpdate.Location = new System.Drawing.Point(110, 281);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(75, 23);
             this.btnUpdate.TabIndex = 9;
@@ -200,13 +258,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(735, 282);
+            this.ClientSize = new System.Drawing.Size(899, 399);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnSelect);
             this.Controls.Add(this.lvPrice);
             this.Name = "Form1";
             this.Text = "가격표관리";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -232,6 +291,12 @@
         private System.Windows.Forms.ColumnHeader columnHeader1;
         private System.Windows.Forms.ColumnHeader columnHeader2;
         private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.TextBox txtOrderTime;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txtId;
+        private System.Windows.Forms.Label label5;
     }
 }
 

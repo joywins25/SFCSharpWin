@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0260_L
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\bin\Debug\SFCSWin0260_ListView.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\bin\Debug\SFCSWin0260_ListView.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\bin\Debug\SFCSWin0260_ListView.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0260_ListView\obj\Debug\SFCSWin0260_ListView.pdb

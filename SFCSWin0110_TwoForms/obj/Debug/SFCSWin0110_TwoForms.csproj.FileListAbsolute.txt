@@ -8,3 +8,13 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0110_T
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.pdb
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\bin\Debug\SFCSWin0110_TwoForms.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\bin\Debug\SFCSWin0110_TwoForms.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\bin\Debug\SFCSWin0110_TwoForms.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.Form2.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0110_TwoForms\obj\Debug\SFCSWin0110_TwoForms.pdb

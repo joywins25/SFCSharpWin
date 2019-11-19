@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0190_S
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\bin\Debug\SFCSWin0190_ScoreCalc.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\bin\Debug\SFCSWin0190_ScoreCalc.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\bin\Debug\SFCSWin0190_ScoreCalc.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0190_ScoreCalc\obj\Debug\SFCSWin0190_ScoreCalc.pdb

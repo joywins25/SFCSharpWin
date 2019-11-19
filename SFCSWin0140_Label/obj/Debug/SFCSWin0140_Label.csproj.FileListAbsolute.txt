@@ -6,3 +6,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0140_L
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\bin\Debug\SFCSWin0140_Label.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\bin\Debug\SFCSWin0140_Label.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\bin\Debug\SFCSWin0140_Label.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0140_Label\obj\Debug\SFCSWin0140_Label.pdb

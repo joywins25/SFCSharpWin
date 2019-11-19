@@ -20,5 +20,10 @@ namespace SFCSWin0110_TwoForms
       f2.Show();
       //f2.ShowDialog();
     }
-  }
+
+        private void Form1_Load(object sender, System.EventArgs e)
+        {
+
+        }
+    }
 }

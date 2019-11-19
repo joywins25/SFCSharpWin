@@ -7,3 +7,12 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_H
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.Properties.Resources.resources
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.pdb

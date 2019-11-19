@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0160_C
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\bin\Debug\SFCSWin0160_CheckBox.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\bin\Debug\SFCSWin0160_CheckBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\bin\Debug\SFCSWin0160_CheckBox.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0160_CheckBox\obj\Debug\SFCSWin0160_CheckBox.pdb

@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSharpWin\o
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.pdb
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\bin\Debug\SFCSharpWin.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\bin\Debug\SFCSharpWin.exe
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\bin\Debug\SFCSharpWin.pdb
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.csprojAssemblyReference.cache
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.exe
+D:\SFCSharp\SFCSharpWin\SFCSharpWin\obj\Debug\SFCSharpWin.pdb

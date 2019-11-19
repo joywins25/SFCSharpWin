@@ -6,3 +6,11 @@ E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0130_B
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.csproj.GenerateResource.cache
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.exe
 E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\bin\Debug\SFCSWin0130_BasicControls.exe.config
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\bin\Debug\SFCSWin0130_BasicControls.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\bin\Debug\SFCSWin0130_BasicControls.pdb
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.Form1.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.Properties.Resources.resources
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.csproj.GenerateResource.cache
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.exe
+D:\SFCSharp\SFCSharpWin\SFCSWin0130_BasicControls\obj\Debug\SFCSWin0130_BasicControls.pdb
