@@ -1,0 +1,8 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\bin\Debug\SFCSWin0150_Flag.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\bin\Debug\SFCSWin0150_Flag.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\bin\Debug\SFCSWin0150_Flag.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\obj\Debug\SFCSWin0150_Flag.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\obj\Debug\SFCSWin0150_Flag.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\obj\Debug\SFCSWin0150_Flag.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\obj\Debug\SFCSWin0150_Flag.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0150_Flag\obj\Debug\SFCSWin0150_Flag.pdb

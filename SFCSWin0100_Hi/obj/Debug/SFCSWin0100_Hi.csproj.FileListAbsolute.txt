@@ -1,0 +1,9 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\bin\Debug\SFCSWin0100_Hi.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0100_Hi\obj\Debug\SFCSWin0100_Hi.pdb

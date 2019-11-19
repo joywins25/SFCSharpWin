@@ -1,0 +1,8 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\bin\Debug\SFCSWin0280_Timer.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0280_Timer\obj\Debug\SFCSWin0280_Timer.pdb

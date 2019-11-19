@@ -1,0 +1,8 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\bin\Debug\SFCSWin0210_RgbScrollBar.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\bin\Debug\SFCSWin0210_RgbScrollBar.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\bin\Debug\SFCSWin0210_RgbScrollBar.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\obj\Debug\SFCSWin0210_RgbScrollBar.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\obj\Debug\SFCSWin0210_RgbScrollBar.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\obj\Debug\SFCSWin0210_RgbScrollBar.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\obj\Debug\SFCSWin0210_RgbScrollBar.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0210_RgbScrollBar\obj\Debug\SFCSWin0210_RgbScrollBar.pdb

@@ -1,0 +1,9 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\bin\Debug\SFCSWin0290_ListView.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\bin\Debug\SFCSWin0290_ListView.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\bin\Debug\SFCSWin0290_ListView.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0290_ListView\obj\Debug\SFCSWin0290_ListView.pdb

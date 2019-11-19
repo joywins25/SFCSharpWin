@@ -1,0 +1,8 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\bin\Debug\SFCSWin0200_MaskedTextBox.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\bin\Debug\SFCSWin0200_MaskedTextBox.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\bin\Debug\SFCSWin0200_MaskedTextBox.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\obj\Debug\SFCSWin0200_MaskedTextBox.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\obj\Debug\SFCSWin0200_MaskedTextBox.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\obj\Debug\SFCSWin0200_MaskedTextBox.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\obj\Debug\SFCSWin0200_MaskedTextBox.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0200_MaskedTextBox\obj\Debug\SFCSWin0200_MaskedTextBox.pdb

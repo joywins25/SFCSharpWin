@@ -1,0 +1,8 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\bin\Debug\SFCSWin0250_GradeCalc.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\bin\Debug\SFCSWin0250_GradeCalc.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\bin\Debug\SFCSWin0250_GradeCalc.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\obj\Debug\SFCSWin0250_GradeCalc.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\obj\Debug\SFCSWin0250_GradeCalc.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\obj\Debug\SFCSWin0250_GradeCalc.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\obj\Debug\SFCSWin0250_GradeCalc.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0250_GradeCalc\obj\Debug\SFCSWin0250_GradeCalc.pdb
