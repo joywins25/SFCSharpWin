@@ -1,0 +1,5 @@
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0310_EventForm\bin\Debug\SFCSWin0310_EventForm.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0310_EventForm\bin\Debug\SFCSWin0310_EventForm.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0310_EventForm\obj\x86\Debug\SFCSWin0310_EventForm.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0310_EventForm\obj\x86\Debug\SFCSWin0310_EventForm.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0310_EventForm\obj\x86\Debug\SFCSWin0310_EventForm.pdb
