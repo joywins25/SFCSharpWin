@@ -7,3 +7,12 @@ D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.
 D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.pdb
 D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.exe
 D:\SFCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.exe.config
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\bin\Debug\SFCSWin0300_ListViewDB.pdb
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.csprojAssemblyReference.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.Form1.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.Properties.Resources.resources
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.csproj.GenerateResource.cache
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.exe
+E:\JoyWins25\SmartFactory\CSharp\WS_SmartFactoryCSharp\SFCSharpWin\SFCSWin0300_ListViewDB\obj\Debug\SFCSWin0300_ListViewDB.pdb
